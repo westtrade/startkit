@@ -1,3 +1,6 @@
+// npm i webpack @easy-webpack/core @easy-webpack/config-sass @easy-webpack/config-css @easy-webpack/config-babel @easy-webpack/config-json @easy-webpack/config-fonts-and-images -D
+// npm i node-sass babel-core babel-preset-env -D
+
 const easy = require('@easy-webpack/core');
 const sass = require('@easy-webpack/config-sass');
 const css = require('@easy-webpack/config-css');
